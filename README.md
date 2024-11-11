@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sayanidelimon/sayanidelimon/blob/main/Sidrat%20moon%20taher.jpg" width="100%" />
+  <img src="https://github.com/sayanidelimon/sayanidelimon/blob/main/Sidrat%20moon%20taher%20(1).jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sidrat moon taher</h1>
