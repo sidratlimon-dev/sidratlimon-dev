@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sayanidelimon/sayanidelimon/blob/main/Sidrat%20moon%20taher.jpg" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sidrat moon taher</h1>
 <h3 align="center">Currently working as a Web Developer for College Mastermind | Automation & Innovation in EdTech</h3>
 
