@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Sidrat moon taher</h1>
 <h3 align="center">Currently working as a Web Developer for College Mastermind | Automation & Innovation in EdTech</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKkpspahjQnGxaa2FXG2KQMdAAw6amoinrtAqD1SBjnzSwXmpjEuq6N-rxNUW9uLuw-w&usqp=CAU">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanidelimon&label=Profile%20views&color=0e75b6&style=flat" alt="sayanidelimon" /> </p>
 
 - 🔭 I’m currently working on [College mastermind official website](https://collegemastermind.com/)
