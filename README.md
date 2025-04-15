@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [XenonMind](https://xenonmind.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sayanidelimon](https://github.com/sidratlimon-dev)
+- 👨‍💻 All of my projects are available at [https://github.com/sidratlimon-dev](https://github.com/sidratlimon-dev)
 
 - 📫 How to reach me **limonsidrat4@gmail.com**
 
